@@ -1,0 +1,45 @@
+.help
+{
+	background-color: #F1EFE6;
+	border: 1px solid #D3CDAE;
+	font-size: 0.9em;
+	padding: 10px;
+	margin-left: 200px;
+	position: relative;
+	width: 300px;
+    box-shadow: 3px 3px 3px #AAA;
+}
+.help::before
+{
+	border-color: transparent #D3CDAE transparent transparent;
+	border-style: solid;
+	border-width: 14px;
+	content: "";
+	margin-top: -14px;
+	left: -28px;
+	position: absolute;
+	top: 50%;
+}
+.tip::before
+{
+	content: "\261E";
+	margin-right: 10px;
+}
+blockquote
+{
+	color: #444;
+	font-style: italic;
+}
+blockquote::before, blockquote::after
+{
+	font-size: 3em;
+	color: #000;
+}
+blockquote::before
+{
+	content: "\201C";
+}
+blockquote::after
+{
+	content: "\201D";
+}

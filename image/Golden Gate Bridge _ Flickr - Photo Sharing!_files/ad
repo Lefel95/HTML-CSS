@@ -1,0 +1,28 @@
+YUI.Env.JSONP.yui_3_16_0_1_1462823324889_935({
+   "ads" : [
+      {
+         "beacon" : "https://beap.gemini.yahoo.com/mbcsc?bv=1.0.0&es=kfwEqLUGIS9IRYksm1l78.4XrNlHMfjQfYWkpOr0DjMU.ClWdHdjS0UTtOO9qpCEvGMpBinWb9Us7QOuOPWFLpePpJ1sPmdkzJf1J_GcI9DYHz5Sma7nR1e8hhthmv03ogWFUK32PZdxz0MDFAWkW83lwj4Gwh6gMadfNQ2C4BLSoYqbUw.MdYN7ckiTjB9vtc5RLIGsORI8bsbHb_UG63_gom.QxN_YrZKcsItgvjow87VfQRfyJDqA_RU0PPnMSrAv.3oTf4lWu1KoS4bX0irxxbuZudGRSwji9jJWZ3aRd53TpMdvyGNjG.t301flkm0aRJ67wGwUQw1ESz0HoNPcI9vnYEq22mCaUGzRv9t8uOt7Xtm7C_9u1tE34NxymrvWHA1YKmOpkPwJITQqsIGFAFjIiW0p0VI-&ap=$(AD_POSN)",
+         "bidUSD" : 0.02442913508913811,
+         "ccCode" : "STRM",
+         "clickProbability" : 0.004890775182291402,
+         "creativeId" : 31674888986,
+         "displayUrl" : "http://l.yimg.com/av/curveball/ads/pr/RESIZE/82x82/b322556f7afe8bc4fd999213dc6fb67c.jpeg",
+         "index" : 1,
+         "landingPageUrl" : "http://www.cenarioleads.com/lp/planos-saude-amil-271/339?=a1&utm_source=YSPMKT&utm_medium=Amil&utm_campaign=cpc",
+         "rsc" : 0.0001194984677113098,
+         "sponsoredBy" : "Cenario Leads",
+         "tag" : "{\"ad_feedback_beacon\":\"https://us.af.beap.bc.yahoo.com/af?bv=1.0.0&bs=(15rdup5fh(gid$5fa2b8ba-161e-11e6-a977-6c3be5bdad68-7f3ebaf64700,st$1462823039098000,li$0,cr$31674888986,dmn$cenarioleads.com,srv$3,exp$1462830239098000,ct$27,v$1.0,adv$1335523,pbid$1,seid$4964388))&r=1462823039099&al=$(AD_FEEDBACK)\",\"advertiser_id\":\"1335523\",\"callToAction\":\"Saiba mais\",\"clickUrl\":\"https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=t04z1ZEGIS.wL_jwK0PrttI1nsUtSUXNdW03vRcKu0RKvkhpsRgSCIqtzahlsq3DQYCmKhGt2dBpuKAANZ85YbMsNCqs14B2FHK9p01_gY6QhPbr.njNi91B29h.vRlhW9pmHnouIHcTEFZHfYCJylARbxbDthiHUpZJCa6a8AdK6cXlVCjtgB4MsOTo2pgUBpcnI1Sw0diJYeOQESYK.gYWbj4OPWHLp5ZSbiNNOT1CgQLr_SKJ5gjR9pQc6SpPEVo9yszzTlgYs.5beU8kNAU8E4OpfR1_z3x8TS0fiaTGPVX4StiNsr1S4Q88JKwMFnv0_qVGUwtkqvYKZYCcNGkRBogqcpxuHLOvxVCU2O6ZBwI7QBr_ZbcAPX3CXgc7jVd2kN5n4Y9R6ZxE2bHKI_1bcdN3BHiUvEusyhJ43VLeDORjYQVAEl6vJRN4OtcVPi2esQyt289hu_k_W1BU8qpsHHNnjMft8AOOy.2brzGzdXxoaRsCFltPPsl3ShhaL4G455yXG0iiBIPPCmg1Z9mTaNPFNK4U3ksQ0M_vkVNlUKXWYLtj8NOY4E7DDVyJ8lhN3iNv3okhyis93lhOoBw-%26lp=\",\"headline\":\"Plano de Saúde Familiar\",\"hqImage\":\"https://s.yimg.com/av/moneyball/ads/1461961411718-8787.jpg\",\"hqImageHeight\":627,\"hqImageWidth\":1200,\"image\":\"http://l.yimg.com/av/curveball/ads/pr/RESIZE/82x82/b322556f7afe8bc4fd999213dc6fb67c.jpeg\",\"imageHeight\":82,\"imageWidth\":82,\"landingUrl\":\"http://www.cenarioleads.com/lp/planos-saude-amil-271/339?=a1&utm_source=YSPMKT&utm_medium=Amil&utm_campaign=cpc\",\"objective\":\"VISIT_WEB\",\"origImg\":\"https://s.yimg.com/av/moneyball/ads/1461961412891-7875.jpg\",\"origImgHeight\":627,\"origImgWidth\":627,\"secHqImage\":\"https://s.yimg.com/av/moneyball/ads/1461961411718-8787.jpg\",\"secImage\":\"https://s.yimg.com/av/curveball/ads/pr/RESIZE/82x82/b322556f7afe8bc4fd999213dc6fb67c.jpeg\",\"secOrigImg\":\"https://s.yimg.com/av/moneyball/ads/1461961412891-7875.jpg\",\"source\":\"Cenario Leads\",\"sponsoredByLabel\":\"Sponsored\",\"summary\":\"Faça uma cotação online agora e encontre preços e condições que se encaixam para você e sua família. Clique!\",\"uuid\":\"31674888986\"}"
+      }
+   ],
+   "adsRequested" : 8,
+   "adserverLatency" : 2.000000000000000e-05,
+   "section" : {
+      "id" : 4964388
+   },
+   "serverIp" : "fe44.cbs.cb.bf1.yahoo.com",
+   "status" : "0",
+   "totalAds" : 1,
+   "totalLatency" : 0.0306980,
+   "userCountry" : "BR",
+   "version" : "2"
+})
